@@ -19,7 +19,6 @@ public class InteractionController : MonoBehaviour
 
   void OnTrigger(InputAction.CallbackContext ctx)
   {
-    Debug.Log("BANG!");
     Instantiate(bulletPrefab, transform.position, transform.rotation);
   }
 
