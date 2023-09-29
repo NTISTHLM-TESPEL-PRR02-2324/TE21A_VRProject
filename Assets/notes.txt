@@ -1,3 +1,6 @@
- + Device simulator bort
- + Fiende
- + Kula från pistolen
+- poängräkning
+- Ett sätt att förlora (monstret gör damage, timer)
+- win scene (mål)
+- progression
+- partikelsystem
+- miljö, grafik
